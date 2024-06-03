@@ -23,3 +23,19 @@ Tenha sempre a roupa certa para qualquer ocasião.
 Aumente sua autoestima e confiança.
 Expresse sua personalidade através da moda.
 O Guarda-Roupa Virtual ainda está em desenvolvimento, mas você pode acessar o código que está no repositório.
+
+## Imagens 
+
+![image](https://github.com/ElielFreitas/TechStyle/assets/105892996/31ec2f87-4912-4067-a6a2-1a993af92514)
+<br/>
+![image](https://github.com/ElielFreitas/TechStyle/assets/105892996/1694f27c-eb34-4bc2-bd97-2c954f6f7618)
+<br/>
+![image](https://github.com/ElielFreitas/TechStyle/assets/105892996/4e9c538f-3540-44b8-9141-4d10bc1da1e9)
+<br/>
+![image](https://github.com/ElielFreitas/TechStyle/assets/105892996/f4d870f9-9f7a-4743-9518-b7431932c89d)
+<br/>
+![image](https://github.com/ElielFreitas/TechStyle/assets/105892996/b3adc999-606b-4bc3-98d2-4ff4b7f4a88e)
+
+
+
+
