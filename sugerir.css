@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a;
+    color: white;
+}
+
+.container {
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.user-icon {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.dropdown {
+    background: none;
+    border:solid#d2691e;
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.btn {
+    background-color: #d2691e;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    align-self: flex-start;
+}
+
+.btn:hover {
+    background-color: #b25c16;
+}
+
+.pecas-container {
+    margin-top: 20px;
+}
+
+.pecas-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.peca {
+    width: 100px;
+    height: 100px;
+    background-color: #d3d3d3;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    position: relative;
+}
+
+.alterar-btn {
+    background-color: #d2691e;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.alterar-btn:hover {
+    background-color: #b25c16;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    margin-top: 20px;
+}
+
+.page-number {
+    cursor: pointer;
+}
+
+.page-number:hover {
+    text-decoration: underline;
+}

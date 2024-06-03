@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Decol&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Decol&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.foother{
+    display: flex;
+    margin-top: 39px;
+    height: 50px;
+    width: 100%;
+    background-color: #AF5400; 
+}
+
+.rede{
+    width: 180px;
+    margin-left: 240px;
+}
+
+.direitos{
+    font-family: "Kaisel Decol", serif;
+    font-size: 15px;
+    color: white;
+    width: 1900px;
+    margin-top: 15px;
+    margin-left: -50px;
+    text-align: center;
+}
+.card1 a{
+    color: white;
+    text-decoration: none; 
+}
+.card2 a{
+    color: white;
+    text-decoration: none; 
+}
+.card3 a{
+    color: white;
+    text-decoration: none; 
+}
+.contato{
+    font-family: "Kaisel Decol", serif;
+    font-size: 15px;
+    color: white;
+    margin-top: 15px;
+    margin-left: -250px;
+    text-align: center;
+}
+
+.logo{
+    width: 400px;
+    margin-left: 550px;
+}
+
+.text{
+    font-family: "Kaisel Decol", serif;
+    font-size: 30px;
+    width: 800px;
+    margin-left: 350px;
+    text-align: center;
+}
+
+.bv{
+    font-family: "Kaisel Decol", serif;
+    font-size: 40px;
+    width: 800px;
+    margin-left: 350px;
+    text-align: center;
+    color: #AF5400;
+}
+
+.tp{
+    font-family: "Kanit", sans-serif;
+    font-size: 40px;
+    width: 800px;
+    margin-left: 350px;
+    text-align: center;
+    color: #AF5400;
+}
+
+.container{
+    flex-direction: row;
+    justify-content: space-around;
+    display: flex;
+}
+
+.card1{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+
+.card1:hover {
+    background-color: #232323;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  }
+
+.card2{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin-left: -210px;
+}
+
+.card2:hover {
+    background-color: #232323;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  }
+
+.card3{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin-left: -210px;
+}
+
+.card3:hover {
+    background-color: #232323;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  }
+
+.arma{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 40px;
+    height: 100px;
+    width: 100px;
+}
+
+.ma{
+    font-family: "Kanit", sans-serif;
+    font-size: 25px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.blusa{
+    display: flex;
+    margin-left: 27px;
+    margin-top: 10px;
+    height: 150px;
+    width: 150px;
+}
+
+.bl{
+    font-family: "Kanit", sans-serif;
+    font-size: 25px;
+    margin-top: -20px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.cesta{
+    display: flex;
+    margin-left: 45px;
+    margin-top: 25px;
+    height: 120px;
+    width: 120px;
+}
+
+.cs{
+    font-family: "Kanit", sans-serif;
+    font-size: 25px;
+    margin-top: -10px;
+    text-align: center;
+    color: #ffffff;
+}
